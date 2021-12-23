@@ -42,11 +42,9 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="classitk_1_1simple_1_1detail_1_1MemberFunctionFactoryBase.html" target="_top" xlink:title="A base class for the MemberFunctionFactory.">
-<polygon fill="white" stroke="black" points="0,-0.5 0,-52.5 164,-52.5 164,-0.5 0,-0.5"/>
-<text text-anchor="start" x="8" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">itk::simple::detail</text>
-<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">::MemberFunctionFactoryBase</text>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; TMemberFunctionPointer,</text>
-<text text-anchor="middle" x="82" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00"> TKey, TArity &gt;</text>
+<polygon fill="white" stroke="black" points="0,-11.5 0,-41.5 164,-41.5 164,-11.5 0,-11.5"/>
+<text text-anchor="start" x="8" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">itk::simple::detail</text>
+<text text-anchor="middle" x="82" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">::MemberFunctionFactoryBase</text>
 </a>
 </g>
 </g>

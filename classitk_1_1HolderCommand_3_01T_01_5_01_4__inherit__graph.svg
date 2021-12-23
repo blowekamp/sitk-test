@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a target="_parent" xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1Command.html" xlink:title=" ">
+<g id="a_node2"><a xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1Command.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="16,-67.5 16,-86.5 102,-86.5 102,-67.5 16,-67.5"/>
 <text text-anchor="middle" x="59" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">itk::Command</text>
 </a>
@@ -37,7 +37,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a target="_parent" xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1Object.html" xlink:title=" ">
+<g id="a_node3"><a xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1Object.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="25.5,-123.5 25.5,-142.5 92.5,-142.5 92.5,-123.5 25.5,-123.5"/>
 <text text-anchor="middle" x="59" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00">itk::Object</text>
 </a>
@@ -52,7 +52,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a target="_parent" xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1LightObject.html" xlink:title=" ">
+<g id="a_node4"><a xlink:href="https://www.itk.org/Doxygen/html/classitk_1_1LightObject.html" xlink:title=" ">
 <polygon fill="white" stroke="black" points="13.5,-179.5 13.5,-198.5 104.5,-198.5 104.5,-179.5 13.5,-179.5"/>
 <text text-anchor="middle" x="59" y="-186.5" font-family="Helvetica,sans-Serif" font-size="10.00">itk::LightObject</text>
 </a>
